@@ -16,7 +16,9 @@ An optimized storyboard-based latent generator for **Wan 2.2**. This node is spe
 2. Create a new folder named `ComfyUI-Wan22-GGUF-Storyboard`.
 3. Place `wan_storyboard_node.py` and `__init__.py` inside that folder.
 4. Restart ComfyUI.
-
+5. 
+## 📁 Example Workflow
+Download the [workflow.json](./workflow.json) file and drag it into ComfyUI to get started instantly with our recommended settings!
 ## ⚠️ Important: Manual FPS Sync
 Because this node acts as the "Director" for your latent frames, **you must manually match the FPS** settings.
 
